@@ -155,7 +155,8 @@ span.header-logo-second-word {
 /* ===============/COMPONENTS=========== */
 
 /* ===============HEADER============ */
-/* ---------Header-mobile-version------- */
+
+/* ------Mobile,tablet version------- */
 @media screen and (max-width: 767px) {
     .menu-list {
         display: none;
@@ -332,6 +333,8 @@ span.header-logo-second-word {
         border-bottom: 1px solid #E7E9FC;
     }
 }
+
+/* ------/Mobile,tablet version------- */
 
 /* .page-header {
     padding-top: 24px;
